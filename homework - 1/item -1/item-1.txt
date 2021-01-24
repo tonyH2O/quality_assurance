@@ -1,0 +1,24 @@
+
+
+
+EXPERCISE: Write 5 ideas of how you will test the items below:
+
+------- EKO Pen made with recycled paper and with blue ink :
+
+
+
+1 - We would need to check if the Blue Ink will actually spill on a paper or other surface areas
+	( there are many pens that are spilling their ink if pressed harder against a paper ) 
+
+
+2 - In the case of Black Box Testing, we need to make sure it is really made of EKO Recycled Paper
+	( people who are using it may not want to be scammed by an EKO company )
+
+
+3 - Test if the material that is made of can cause an allergic reaction to the user
+
+
+4 - Test if the Pen is doing what it is suppose to do - writting and if it has a strong grip for comfort
+
+
+5 - How long will it last before breaking in half or the Ink will run empty

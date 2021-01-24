@@ -1,0 +1,23 @@
+
+
+
+
+EXPERCISE: Write 5 ideas of how you will test the items below:
+
+---------- Waterproof playing cards with 3 jokers in the deck:
+
+
+
+1 - Check if the material the cards are made of will cause an Allergic Reactions to the users
+
+
+2 - Check if the Cards are actually waterproof by putting them under water or playing in the rain
+
+
+3 - Check the duration of how long will the Deck last under bad conditions - left couple of days in the rain outside
+
+
+4 - Make sure there are no duplicate cards other than the 4 Jokers in the Deck and the Artwork is on point as intended
+
+
+5 - The Cards are waterproof but is this going to make them break easily? Check the edges of the cards for damage after playing as well!

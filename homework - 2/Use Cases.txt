@@ -1,0 +1,25 @@
+
+
+Use Case 1 (Accessing the system) 
+The system is accessed through the internet from its initial URL. It
+loads header, navigation bar and a home page.
+
+
+Use Case 2 (Navigation bar)
+The navigation bar has navigational hyperlinks to the Home, Product
+category, Store finder, Login and Registration option, All Products. As well as it should have navigation to
+the Checkout and Search.
+
+
+Use Case 3 (Home page)
+The home page shows the Product blocks in random order in a slider section. 
+Clicking on the banners leads to the relevant category with products.
+Latest products section should be available at the bottom.
+
+
+
+Use Case 4 (Search)
+Clicking on Search from in the header allows for product finds by given keywords. 
+If we have such products, we should show a list with the results. 
+If no product is found, we should display error message stating that 
+“Sorry, but nothing matched your search criteria. Please try again with some different keywords.”

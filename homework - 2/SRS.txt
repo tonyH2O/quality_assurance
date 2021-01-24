@@ -1,0 +1,20 @@
+
+
+------------ Tasks
+1. Create enough test cases to test the functionalities described in the SRS.
+
+2. Save those test cases in simple files (TXT or XLS/X) or a test management system of your choice. Add screen
+shots to your test cases if necessary. Upload all the files as a single zip file in SoftUni system, in the case a test
+management system is used, please provide access and some screenshots of the test cases.
+
+3. Set correct priority to your test cases depending on the functionality importance. Most important test cases that
+has to be run are the highest priority, the least important test cases are the lowest priority.
+
+
+
+------------ Resources
+The project is located at: choose a website!
+
+
+
+

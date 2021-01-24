@@ -1,0 +1,22 @@
+
+
+
+
+EXPERCISE: Write 5 ideas of how you will test the items below:
+
+---------- Sunglasses made by recycled skate desks:
+
+
+1 - Check if the Recycled material will cause an Allergic reaction to the users
+
+
+2 - Are they really protecting the user from the Sun, check what the glass itself is made of
+
+
+3 - Check if the glasses will cause trouble with limited vision if the glass itself is darker or it will be clear and easy to see
+
+
+4 - Check if the glasses will be heavy or light and easy to wear and use daily
+
+
+5 - Will the glass break easily if they are dropped by the person who wears them?
